@@ -1,5 +1,5 @@
-# UnerMindden.github.io
+# UnerMindden Portfolio
 Just fan for portfolio
 
 
-[ДЕВАЧКИ, ВЫ УПАЛИ](UnerMidden.github.io/practic/)
+[Переходите на мой первый сайт](UnerMindden.github.io/Practic)
